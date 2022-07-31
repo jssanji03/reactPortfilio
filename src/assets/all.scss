@@ -9,10 +9,12 @@
 // *******************
 //     base
 // *******************
+@import "./helpers/color";
 @import "./base/reset";
 
 // *******************
 //     helpers
 // *******************
-@import "./helpers/color";
+
 @import "./helpers/responsive";
+@import "./helpers/space";

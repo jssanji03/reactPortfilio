@@ -7,7 +7,7 @@ function Header() {
   return (
     <>
       <div className="container">
-            <div className="row aboutBg g-0">
+            <div className="row customCard aboutBg g-0 mx-auto">
                 <div className="col-4 circle">
                     <img src={me}></img>
                 </div>
@@ -20,5 +20,4 @@ function Header() {
     </>
   );
 }
-
 export default Header;

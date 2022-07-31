@@ -1,15 +1,90 @@
 import React, { useState, useEffect } from 'react';
+import { FacebookFilled } from '@ant-design/icons';
+import { InstagramFilled } from '@ant-design/icons';
 import './About.scss';
 
+const content = {
+text: {
+    name: {
+        title: '姓名',
+        text:'宋文荃'
+    },
+    mail: {
+        title: '信箱',
+        text:'jssanji03@gmail.com'
+    },
+    mobile: {
+        title: '手機',
+        text:'0933930233'
+    },
+    birth: {
+        title: '生日',
+        text:'1988/07/23'
+    }
+  }
+};
+function List(props) {
+    return (
+        <>
+            <div className="col-6 content mt-5">
+            <table>
+                <tbody>
+                    <tr>
+                        <td className="tdTitle">{props.info.name.title}</td>
+                        <td>{props.info.name.text}</td>
+                    </tr>
+                    <tr>
+                        <td className="tdTitle">{props.info.mail.title}</td>
+                        <td>{props.info.mail.text}</td>
+                    </tr>
+                    <tr>
+                        <td className="tdTitle">{props.info.mobile.title}</td>
+                        <td>{props.info.mobile.text}</td>
+                    </tr>
+                    <tr>
+                        <td className="tdTitle">{props.info.birth.title}</td>
+                        <td>{props.info.birth.text}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div className="col-6 content mt-5">
+            <table>
+                <tbody>
+                    <tr>
+                        <td className="tdTitle">地址</td>
+                        <td>新北市</td>
+                    </tr>
+                    <tr>
+                        <td className="tdTitle">Web</td>
+                        <td ><a href="https://issuu.com/jesssung/docs/final-s">https://issuu.com/jesssung/docs/final-s</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td className="tdTitle">職業</td>
+                        <td>前端工程/設計師</td>
+                    </tr>
+                    <tr className="icon">
+                        <td></td>
+                        <td><InstagramFilled style={{ fontSize: '30px', color: '#c3295f' }}/><FacebookFilled style={{ fontSize: '30px', color: '#2955c3' }}/></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        </>
+        
+        
+    )
+}
 
-function About() {
+function About(props) {
   return (
     <>
-      <div className="container">
-        <div className="row customCard aboutMe">
-                <div className="col-12 about ">
-                    <h3 className="title">hi關於我</h3>
-                    <span>
+    
+        <div className="row customCard aboutMe mx-auto">
+                <div className="col-12 about">
+                    <h3>關於我</h3>
+                    <p>
                         我是宋文荃，現階段經過資策會的專業訓練，投入前端工程師經歷約582小時，從網頁基礎架構的HTML、CSS到Bootsctrap與網頁響應版RWD，對於網站架構與語法應用已相當熟悉並實際應用在個人網站上。以網頁的架構上使用JavaScript達到功能的展現、更新內容與互動控制。搭配JQuery函式庫實做出一款小遊戲並了解其操作性質。
         
                         完整執行過專案為一電商網站，由團隊合作開發完成，從前端架構發想wireframe
@@ -23,52 +98,11 @@ function About() {
         
                         從中經歷2年的主管職位並帶領過5人，對於跨部門溝通與協同合作專案經驗豐富，色彩與視覺呈現可以有效率的品質產出。以過往的經歷面對到網路的無遠弗屆、科技的日新月異，網路趨勢已年年向上攀升，了解未來網路商機的重要性，因此投入前端領域讓自己不斷的學習網路技術與如何創造出色的顧客體驗，善加運用自身的美學設計背景，去融入未來網路需求，創造更多的無限可能。
         
-                    </span>
-                </div>
-                <div className="col-6 content mt-5">
-                    <table>
-                        <tr>
-                            <td className="tdTitle">姓名</td>
-                            <td>宋文荃</td>
-                        </tr>
-                        <tr>
-                            <td className="tdTitle">信箱</td>
-                            <td>jssanji03@gmail.com</td>
-                        </tr>
-                        <tr>
-                            <td className="tdTitle">手機</td>
-                            <td>0933930233</td>
-                        </tr>
-                        <tr>
-                            <td className="tdTitle">生日</td>
-                            <td>1988/07/23</td>
-                        </tr>
-                    </table>
-                </div>
-                <div className="col-6 content mt-5">
-                    <table>
-                        <tr>
-                            <td className="tdTitle">地址</td>
-                            <td>新北市</td>
-                        </tr>
-                        <tr>
-                            <td className="tdTitle">Web</td>
-                            <td ><a
-                                    href="https://issuu.com/jesssung/docs/final-s">https://issuu.com/jesssung/docs/final-s</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td className="tdTitle">職業</td>
-                            <td>前端工程/設計師</td>
-                        </tr>
-                        <tr className="icon">
-                            <td></td>
-                            <td><i className="fab fa-instagram-square"></i><i className="fab fa-facebook-square"></i></td>
-                        </tr>
-                    </table>
-                </div>
+                    </p>
+                  </div>
+                  <List info={content.text} />
             </div>
-      </div>
+    
     </>
   );
 }

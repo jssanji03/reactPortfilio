@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+/* eslint-disable jsx-a11y/anchor-is-valid */
+import React from 'react'
 import './NavBar.scss';
 
 
@@ -18,7 +19,7 @@ function NavBar() {
                     <a href="#exp" className="jessexp"></a>
                 </li>
                 <li>
-                    <a href="#bookmark" className="Portfilio"></a>
+                    <a href="/#bookmark" className="Portfilio"></a>
                 </li>
             </ul>
         </div>
