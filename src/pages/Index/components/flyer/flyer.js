@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
+import { Routes, Route, Outlet, Link } from "react-router-dom";
 import './flyer.scss';
 import design1 from './images/01.jpg';
 import design2 from './images/02-2.jpg';
@@ -17,11 +18,12 @@ function Flyer() {
                     <div className="box">
                         <div className="content-overlay"></div>
                         <img src={design1} />
-                        <a href="./jess-flyer.html">
-                            <div className="content-details fadeIn-bottom">
-                                <h3 className="content-title">平面設計</h3>
-                            </div>
-                        </a>
+                        <div className="content-details fadeIn-bottom">
+                            <Link to="/CareFlyer"><h3 className="content-title">平面設計</h3></Link>
+                            {/* <a href="https://jssanji03.github.io/work/jess-package.html">
+                                <h3 className="content-title">產品包裝</h3>
+                            </a> */}
+                        </div>
                     </div>
                 </div>
                 <div className="col-4">
@@ -29,9 +31,10 @@ function Flyer() {
                         <div className="content-overlay"></div>
                         <img src={design2}/>
                         <div className="content-details fadeIn-bottom">
-                            <a href="https://jssanji03.github.io/work/jess-package.html">
+                            <Link to="/CareFlyer"><h3 className="content-title">產品包裝</h3></Link>
+                            {/* <a href="https://jssanji03.github.io/work/jess-package.html">
                                 <h3 className="content-title">產品包裝</h3>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
