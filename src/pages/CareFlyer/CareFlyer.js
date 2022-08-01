@@ -34,7 +34,7 @@ const SecondPage=()=>{
 
     }
   useEffect(() => {
-    getUserInfoFromServer();
+    // getUserInfoFromServer();
   });
     return(
         <div style={StyleSheet}>
