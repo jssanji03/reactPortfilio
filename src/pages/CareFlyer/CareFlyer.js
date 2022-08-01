@@ -21,7 +21,7 @@ const SecondPage=()=>{
         var requestOptions = {
             method: 'GET',
             headers: {
-                // Authorization:'75b19c3170301ac'
+                Authorization:'75b19c3170301ac'
             },
             // body: formdata,
             redirect: 'follow'
