@@ -27,14 +27,14 @@ const SecondPage=()=>{
             redirect: 'follow'
         };
 
-        fetch("https://api.github.com/users/jssanji03/repos", requestOptions)
+        fetch("https://api.imgur.com/3/album/oRuzdkT", requestOptions)
             .then(response => response.text())
             .then(result => console.log(result))
             .catch(error => console.log('error', error));
 
     }
   useEffect(() => {
-    // getUserInfoFromServer();
+    getUserInfoFromServer();
   });
     return(
         <div style={StyleSheet}>
