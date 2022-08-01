@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactPortfilio/static/css/main.c74d18f3.css",
-    "main.js": "/reactPortfilio/static/js/main.baef25dd.js",
+    "main.js": "/reactPortfilio/static/js/main.42092e69.js",
     "static/js/787.bc7d429a.chunk.js": "/reactPortfilio/static/js/787.bc7d429a.chunk.js",
     "static/media/me.JPG": "/reactPortfilio/static/media/me.c0abf1e17ec20263ab9f.JPG",
     "static/media/05.jpg": "/reactPortfilio/static/media/05.11cdbf8a9a2b003aa049.jpg",
@@ -12,11 +12,11 @@
     "static/media/01.jpg": "/reactPortfilio/static/media/01.188f2f59f2a0bcb147e5.jpg",
     "index.html": "/reactPortfilio/index.html",
     "main.c74d18f3.css.map": "/reactPortfilio/static/css/main.c74d18f3.css.map",
-    "main.baef25dd.js.map": "/reactPortfilio/static/js/main.baef25dd.js.map",
+    "main.42092e69.js.map": "/reactPortfilio/static/js/main.42092e69.js.map",
     "787.bc7d429a.chunk.js.map": "/reactPortfilio/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c74d18f3.css",
-    "static/js/main.baef25dd.js"
+    "static/js/main.42092e69.js"
   ]
 }
