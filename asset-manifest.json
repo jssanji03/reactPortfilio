@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.c74d18f3.css",
-    "main.js": "/my-react-app/static/js/main.e3c4cc98.js",
-    "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
-    "static/media/me.JPG": "/my-react-app/static/media/me.c0abf1e17ec20263ab9f.JPG",
-    "static/media/05.jpg": "/my-react-app/static/media/05.11cdbf8a9a2b003aa049.jpg",
-    "static/media/02-2.jpg": "/my-react-app/static/media/02-2.72649b42918d0d93c874.jpg",
-    "static/media/04.jpg": "/my-react-app/static/media/04.6eb0db48931ce7aa61c7.jpg",
-    "static/media/03.jpg": "/my-react-app/static/media/03.7016e909e430d80cd7ea.jpg",
-    "static/media/06.jpg": "/my-react-app/static/media/06.d9c412cd27376f64e5ea.jpg",
-    "static/media/01.jpg": "/my-react-app/static/media/01.188f2f59f2a0bcb147e5.jpg",
-    "index.html": "/my-react-app/index.html",
-    "main.c74d18f3.css.map": "/my-react-app/static/css/main.c74d18f3.css.map",
-    "main.e3c4cc98.js.map": "/my-react-app/static/js/main.e3c4cc98.js.map",
-    "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/reactPortfilio/static/css/main.c74d18f3.css",
+    "main.js": "/reactPortfilio/static/js/main.7c3d11d7.js",
+    "static/js/787.bc7d429a.chunk.js": "/reactPortfilio/static/js/787.bc7d429a.chunk.js",
+    "static/media/me.JPG": "/reactPortfilio/static/media/me.c0abf1e17ec20263ab9f.JPG",
+    "static/media/05.jpg": "/reactPortfilio/static/media/05.11cdbf8a9a2b003aa049.jpg",
+    "static/media/02-2.jpg": "/reactPortfilio/static/media/02-2.72649b42918d0d93c874.jpg",
+    "static/media/04.jpg": "/reactPortfilio/static/media/04.6eb0db48931ce7aa61c7.jpg",
+    "static/media/03.jpg": "/reactPortfilio/static/media/03.7016e909e430d80cd7ea.jpg",
+    "static/media/06.jpg": "/reactPortfilio/static/media/06.d9c412cd27376f64e5ea.jpg",
+    "static/media/01.jpg": "/reactPortfilio/static/media/01.188f2f59f2a0bcb147e5.jpg",
+    "index.html": "/reactPortfilio/index.html",
+    "main.c74d18f3.css.map": "/reactPortfilio/static/css/main.c74d18f3.css.map",
+    "main.7c3d11d7.js.map": "/reactPortfilio/static/js/main.7c3d11d7.js.map",
+    "787.bc7d429a.chunk.js.map": "/reactPortfilio/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c74d18f3.css",
-    "static/js/main.e3c4cc98.js"
+    "static/js/main.7c3d11d7.js"
   ]
 }
