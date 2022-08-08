@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
+import { HashLink} from 'react-router-hash-link';
 import './NavBar.scss';
 
 
@@ -9,18 +10,18 @@ function NavBar() {
       <header className="header">
         <div className="nav_menulist">
             <ul className="nav">
-                <li>
-                    <a href="#" className="aboutme"></a>
-                </li>
-                <li>
-                    <a href="#skill" className="jessskill"></a>
-                </li>
-                <li>
-                    <a href="#exp" className="jessexp"></a>
-                </li>
-                <li>
-                    <a href="/#bookmark" className="Portfilio"></a>
-                </li>
+              <li>
+                <HashLink smooth to={"#"} className="aboutme"></HashLink>
+              </li>
+              <li>
+                <HashLink smooth to={'#skill'} className="jessskill"></HashLink>
+              </li>
+              <li>
+                <HashLink smooth to={'#exp'} className="jessexp"></HashLink>
+                  </li>
+              <li>
+                <HashLink smooth to={'#bookmark'} className="Portfilio"></HashLink>
+              </li>
             </ul>
         </div>
       </header>
