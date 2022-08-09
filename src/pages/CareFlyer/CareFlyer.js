@@ -25,16 +25,23 @@ const SecondPage = () => {
             // body: formdata,
             redirect: 'follow'
         };
-        fetch("https://api.imgur.com/3/album/oRuzdkT", requestOptions)
-          .then(response => {
-            response.json();
-          })
-          .then(result => {
-            console.log(result);
-            setGetData(result.data);
-            console.log(getData);
-          })
-            .catch(error => console.log('error', error));
+        axios.get('https://random-data-api.com/api/food/random_food?size=30')
+        .then((res) => {
+            // #2 如何把資料加入至
+            // this.data = res.data.results
+            console.log(res);
+        })
+                
+        // fetch("https://api.imgur.com/3/album/oRuzdkT", requestOptions)
+        //   .then(response => {
+        //     response.json();
+        //   })
+        //   .then(result => {
+        //     console.log(result);
+        //     setGetData(result.data);
+        //     console.log(getData);
+        //   })
+        //     .catch(error => console.log('error', error));
 
     }
   
