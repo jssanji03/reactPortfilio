@@ -25,7 +25,7 @@ const SecondPage = () => {
             // body: formdata,
             redirect: 'follow'
         };
-        axios.get('https://random-data-api.com/api/food/random_food?size=30')
+        axios.get('https://api.imgur.com/3/album/oRuzdkT', requestOptions)
         .then((res) => {
             // #2 如何把資料加入至
             // this.data = res.data.results
