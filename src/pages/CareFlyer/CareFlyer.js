@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './CareFlyer.scss';
 
-const SecondPage=()=>{
+const SecondPage = () => {
+   const[getData,setGetData]=useState(null)
     const StyleSheet={
         width:"100vw",
         height:"100vh",
@@ -21,7 +22,6 @@ const SecondPage=()=>{
             headers: {
                 Authorization:'46acc85aaae5da2'
             },
-            // body: formdata,
             redirect: 'follow'
         };
         axios.get('https://api.imgur.com/3/album/oRuzdkT', requestOptions)
@@ -30,16 +30,36 @@ const SecondPage=()=>{
             // this.data = res.data.results
             console.log(res);
         })
-// https://api.github.com/users/jssanji03/repos
+                
         // fetch("https://api.imgur.com/3/album/oRuzdkT", requestOptions)
-        //     .then(response => response.json())
-        //     .then(result => console.table(result.data))
+        //   .then(response => {
+        //     response.json();
+        //   })
+        //   .then(result => {
+        //     console.log(result);
+        //     setGetData(result.data);
+        //     console.log(getData);
+        //   })
         //     .catch(error => console.log('error', error));
 
     }
+  
   useEffect(() => {
     getUserInfoFromServer();
+    // const headers = {
+    //         headers: {
+    //             Authorization:'75b19c3170301ac'
+    //         },
+    //         redirect: 'follow'
+    //     };
+    // axios.get('https://api.imgur.com/3/album/oRuzdkT', headers)
+    //   .then(response => {
+    //     setGetData(response.data);
+    //     console.log(getData);
+    //     console.log(response.data.images);
+    //   })
   });
+  
     return(
         <div style={StyleSheet}>
             <h1 style={{color:"white",fontFamily:"Microsoft JhengHei"}}>我是第二頁</h1>
