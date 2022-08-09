@@ -1,4 +1,5 @@
-import React, { useState,useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
 import './CareFlyer.scss';
 
 const SecondPage=()=>{
@@ -13,24 +14,27 @@ const SecondPage=()=>{
     }
       // -------- 取得目前user的資料 ---------- //
     function getUserInfoFromServer() {
-        var myHeaders = new Headers();
+        const myHeaders = new Headers();
         myHeaders.append("Authorization", "Client-ID {{clientId}}");
-
-        var formdata = new FormData();
-
-        var requestOptions = {
+        const requestOptions = {
             method: 'GET',
             headers: {
-                Authorization:'75b19c3170301ac'
+                Authorization:'46acc85aaae5da2'
             },
             // body: formdata,
             redirect: 'follow'
         };
-
-        fetch("https://api.imgur.com/3/album/oRuzdkT", requestOptions)
-            .then(response => response.text())
-            .then(result => console.log(result))
-            .catch(error => console.log('error', error));
+        axios.get('https://api.imgur.com/3/album/oRuzdkT', requestOptions)
+        .then((res) => {
+            // #2 如何把資料加入至
+            // this.data = res.data.results
+            console.log(res);
+        })
+// https://api.github.com/users/jssanji03/repos
+        // fetch("https://api.imgur.com/3/album/oRuzdkT", requestOptions)
+        //     .then(response => response.json())
+        //     .then(result => console.table(result.data))
+        //     .catch(error => console.log('error', error));
 
     }
   useEffect(() => {
