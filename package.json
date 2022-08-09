@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
-  "homepage": "http://jssanji03.github.io/reactPortfilio",
   "version": "0.1.0",
+  "homepage": "http://www.my-react-app.com",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
