@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactPortfilio/static/css/main.6a678aa8.css",
-    "main.js": "/reactPortfilio/static/js/main.a2ab4473.js",
+    "main.css": "/reactPortfilio/static/css/main.e777b8b7.css",
+    "main.js": "/reactPortfilio/static/js/main.a9a00296.js",
     "static/js/787.bc7d429a.chunk.js": "/reactPortfilio/static/js/787.bc7d429a.chunk.js",
     "static/media/me.JPG": "/reactPortfilio/static/media/me.c0abf1e17ec20263ab9f.JPG",
     "static/media/05.jpg": "/reactPortfilio/static/media/05.11cdbf8a9a2b003aa049.jpg",
@@ -11,12 +11,12 @@
     "static/media/06.jpg": "/reactPortfilio/static/media/06.d9c412cd27376f64e5ea.jpg",
     "static/media/01.jpg": "/reactPortfilio/static/media/01.188f2f59f2a0bcb147e5.jpg",
     "index.html": "/reactPortfilio/index.html",
-    "main.6a678aa8.css.map": "/reactPortfilio/static/css/main.6a678aa8.css.map",
-    "main.a2ab4473.js.map": "/reactPortfilio/static/js/main.a2ab4473.js.map",
+    "main.e777b8b7.css.map": "/reactPortfilio/static/css/main.e777b8b7.css.map",
+    "main.a9a00296.js.map": "/reactPortfilio/static/js/main.a9a00296.js.map",
     "787.bc7d429a.chunk.js.map": "/reactPortfilio/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a678aa8.css",
-    "static/js/main.a2ab4473.js"
+    "static/css/main.e777b8b7.css",
+    "static/js/main.a9a00296.js"
   ]
 }
