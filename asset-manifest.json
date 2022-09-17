@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactPortfilio/static/css/main.e777b8b7.css",
+    "main.css": "/reactPortfilio/static/css/main.e8ad231f.css",
     "main.js": "/reactPortfilio/static/js/main.d321bd1e.js",
     "static/js/787.bc7d429a.chunk.js": "/reactPortfilio/static/js/787.bc7d429a.chunk.js",
     "static/media/me.JPG": "/reactPortfilio/static/media/me.c0abf1e17ec20263ab9f.JPG",
@@ -11,12 +11,12 @@
     "static/media/06.jpg": "/reactPortfilio/static/media/06.d9c412cd27376f64e5ea.jpg",
     "static/media/01.jpg": "/reactPortfilio/static/media/01.188f2f59f2a0bcb147e5.jpg",
     "index.html": "/reactPortfilio/index.html",
-    "main.e777b8b7.css.map": "/reactPortfilio/static/css/main.e777b8b7.css.map",
+    "main.e8ad231f.css.map": "/reactPortfilio/static/css/main.e8ad231f.css.map",
     "main.d321bd1e.js.map": "/reactPortfilio/static/js/main.d321bd1e.js.map",
     "787.bc7d429a.chunk.js.map": "/reactPortfilio/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e777b8b7.css",
+    "static/css/main.e8ad231f.css",
     "static/js/main.d321bd1e.js"
   ]
 }
