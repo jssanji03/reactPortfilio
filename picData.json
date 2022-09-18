@@ -254,7 +254,7 @@
         {
             "id":1,
             "pic":"https://github.com/jssanji03/work/blob/main/images/05/00.jpg?raw=true",
-            "content":"foodsDm"
+            "content":"productsDm"
         },
         {
             "id":2,
@@ -288,42 +288,6 @@
         {
             "id":7,
             "pic":"https://github.com/jssanji03/work/blob/main/images/04/D.png?raw=true",
-            "content":"foodsDm"
-        }
-        ,
-        {
-            "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/DM.jpg?raw=true",
-            "content":"foodsDm"
-        }
-        ,
-        {
-            "id":9,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/E.PNG?raw=true",
-            "content":"foodsDm"
-        }
-        ,
-        {
-            "id":10,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/F.png?raw=true",
-            "content":"foodsDm"
-        }
-        ,
-        {
-            "id":11,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/G.png?raw=true",
-            "content":"foodsDm"
-        }
-        ,
-        {
-            "id":12,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/H.png?raw=true",
-            "content":"foodsDm"
-        }
-        ,
-        {
-            "id":13,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/Tri%20Fold%20Brochure%20MockUp%202.jpg?raw=true",
             "content":"foodsDm"
         }
         ]
