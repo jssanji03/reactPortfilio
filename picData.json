@@ -1,11 +1,10 @@
-
 [
     {
         "name": "careProduct",
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/02%202.jpg?raw=true",
+             "pic":"https://github.com/jssanji03/work/blob/main/images/package/01.jpg?raw=true",
             "content":"保養品dm"
         },
         {
@@ -289,6 +288,283 @@
             "id":7,
             "pic":"https://github.com/jssanji03/work/blob/main/images/04/D.png?raw=true",
             "content":"foodsDm"
+        }
+        ]
+    },
+    {
+        "name": "packages",
+        "data": [
+        {
+            "id":1,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/01.jpg?raw=true",
+            "content":"packagesDm"
+        },
+        {
+            "id":2,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/02%20%E6%8B%B7%E8%B2%9D.JPG?raw=true",
+            "content":"packagesDm"
+        },
+        {
+            "id":3,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/04%20.jpg?raw=true",
+            "content":"packagesDm"
+        }
+        ,
+        {
+            "id":4,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/06.JPG?raw=true",
+            "content":"packagesDm"
+        }
+        ,
+        {
+            "id":5,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/08.jpg?raw=true",
+            "content":"packagesDm"
+        }
+        ,
+        {
+            "id":6,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/10.jpg?raw=true",
+            "content":"packagesDm"
+        }
+        ,
+        {
+            "id":7,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/11.JPG?raw=true",
+            "content":"packagesDm"
+        },
+        {
+            "id":8,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/12.jpg?raw=true",
+            "content":"packagesDm"
+        },
+        {
+            "id":9,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/package/13.jpg?raw=true",
+            "content":"packagesDm"
+        }
+        ]
+    },
+    {
+        "name": "cis",
+        "data": [
+        {
+            "id":1,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/01.JPG?raw=true",
+            "content":"cisDm"
+        },
+        {
+            "id":2,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/03.JPG?raw=true",
+            "content":"cisDm"
+        },
+        {
+            "id":3,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/04.JPG?raw=true",
+            "content":"cisDm"
+        }
+        ,
+        {
+            "id":4,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/05-2.JPG?raw=true",
+            "content":"cisDm"
+        }
+        ,
+        {
+            "id":5,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/06.JPG?raw=true",
+            "content":"cisDm"
+        }
+        ,
+        {
+            "id":6,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/08.jpg?raw=true",
+            "content":"cisDm"
+        }
+        ,
+        {
+            "id":7,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/09.jpg?raw=true",
+            "content":"cisDm"
+        },
+        {
+            "id":8,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/10.JPG?raw=true",
+            "content":"cisDm"
+        },
+        {
+            "id":9,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/12.jpg?raw=true",
+            "content":"cisDm"
+        },
+        {
+            "id":10,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/10.JPG?raw=true",
+            "content":"cisDm"
+        },
+        {
+            "id":11,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/14.jpg?raw=true",
+            "content":"cisDm"
+        },
+        {
+            "id":12,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/ASIA%20MASK.jpg?raw=true",
+            "content":"cisDm"
+        }
+        ]
+    },
+    {
+        "name": "banner",
+        "data": [
+        {
+            "id":1,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/01.JPG?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":2,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/1000X1000-01.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":3,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/1000X1000-02.jpg?raw=true",
+            "content":"banner"
+        }
+        ,
+        {
+            "id":4,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/2.jpg?raw=true",
+            "content":"banner"
+        }
+        ,
+        {
+            "id":5,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/FA_BACO_06.jpg?raw=true",
+            "content":"banner"
+        }
+        ,
+        {
+            "id":6,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/FA_BACO_10.jpg?raw=true",
+            "content":"banner"
+        }
+        ,
+        {
+            "id":7,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/FB_SCL_02.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":8,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/banner_1920x1080.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":9,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/link_400x200_facebook.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":10,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/link_400x200_instagram.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":11,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/link_400x200_line.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":12,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/news_400x400_01.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":13,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/news_400x400_02.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":14,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/news_400x400_03.jpg?raw=true",
+            "content":"banner"
+        }
+        ]
+    },
+    {
+        "name": "EDm",
+        "data": [
+        {
+            "id":1,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/81709-DM.jpg?raw=true",
+            "content":"EDm"
+        },
+        {
+            "id":2,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/91808-DM.jpg?raw=true",
+            "content":"EDm"
+        },
+        {
+            "id":3,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/A04-DM.jpg?raw=true",
+            "content":"EDm"
+        }
+        ,
+        {
+            "id":4,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/BBQ_EDM.jpg?raw=true",
+            "content":"EDm"
+        }
+        ,
+        {
+            "id":5,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7311-edm.jpg?raw=true",
+            "content":"EDm"
+        }
+        ,
+        {
+            "id":6,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7808-edm.jpg?raw=true",
+            "content":"EDm"
+        }
+        ,
+        {
+            "id":7,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7829-edm.jpg?raw=true",
+            "content":"EDm"
+        },
+        {
+            "id":8,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7856-edm.jpg?raw=true",
+            "content":"EDm"
+        }
+        ]
+    },
+    {
+        "name": "WebSite",
+        "data": [
+        {
+            "id":1,
+            "pic":"build/static/media/web/03.png",
+            "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
+            "title":"JQuery小遊戲",
+            "content":"[ VScode、JQuery ]"
+        },
+        {
+            "id":2,
+            "pic":"./images/web/03.png",
+            "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
+            "title":"BootStrap網頁切版",
+            "content":"[ BootStrap ]"
+        },
+        {
+            "id":3,
+             "pic":"./images/web/03.png",
+            "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
+            "title":"專題電商網站建置",
+            "content":"[ React.框架、Node.js後端 ]"
         }
         ]
     }
