@@ -9,7 +9,7 @@ function Header() {
       <div className="container">
             <div className="row customCard aboutBg g-0 mx-auto">
                 <div className="col-4 circle">
-                    <img src={me}></img>
+                    <img src={me} alt="" />
                 </div>
                 <div className="col-7 title">
                     <h2>Hi, I'm Jess. This is my profile.</h2>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route, Outlet, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import './flyer.scss';
 import design1 from './images/01.jpg';
 import design2 from './images/02-2.jpg';
@@ -17,57 +17,45 @@ function Flyer() {
                 <div className="col-4">
                     <div className="box">
                         <div className="content-overlay"></div>
-                        <img src={design1} />
+                        <img src={design1} alt=""/>
                         <div className="content-details fadeIn-bottom">
-                            <Link to="/CareFlyer"><h3 className="content-title">平面設計</h3></Link>
-                            {/* <a href="https://jssanji03.github.io/work/jess-package.html">
-                                <h3 className="content-title">產品包裝</h3>
-                            </a> */}
+                            <Link to="/careFlyer"><h3 className="content-title">平面設計</h3></Link>
                         </div>
                     </div>
                 </div>
                 <div className="col-4">
                     <div className="box">
                         <div className="content-overlay"></div>
-                        <img src={design2}/>
+                        <img src={design2} alt=""/>
                         <div className="content-details fadeIn-bottom">
-                            <Link to="/CareFlyer"><h3 className="content-title">產品包裝</h3></Link>
-                            {/* <a href="https://jssanji03.github.io/work/jess-package.html">
-                                <h3 className="content-title">產品包裝</h3>
-                            </a> */}
+                            <Link to="/packages"><h3 className="content-title">產品包裝</h3></Link>
                         </div>
                     </div>
                 </div>
                 <div className="col-4">
                     <div className="box">
                         <div className="content-overlay"></div>
-                        <img src={design3} />
-                        <div className="content-details fadeIn-bottom">
-                            <a href="https://jssanji03.github.io/work/jess-cis.html">
-                                <h3 className="content-title">ＣＩＳ</h3>
-                            </a>
+                        <img src={design3}  alt=""/>
+                      <div className="content-details fadeIn-bottom">
+                          <Link to="/Cis"><h3 className="content-title">CIS</h3></Link>
                         </div>
                     </div>
                 </div>
                 <div className="col-4">
                     <div className="box">
                         <div className="content-overlay"></div>
-                        <img src={design4}/>
+                        <img src={design4} alt=""/>
                         <div className="content-details fadeIn-bottom">
-                            <a href="https://jssanji03.github.io/work/jess-banner.html">
-                                <h3 className="content-title">Banner</h3>
-                            </a>
+                            <Link to="/banner"><h3 className="content-title">Banner</h3></Link>
                         </div>
                     </div>
                 </div>
                 <div className="col-4">
                     <div className="box">
                         <div className="content-overlay"></div>
-                        <img src={design5}/>
+                        <img src={design5} alt=""/>
                         <div className="content-details fadeIn-bottom">
-                            <a href="https://jssanji03.github.io/work/jess-edm.html">
-                                <h3 className="content-title">EDM</h3>
-                            </a>
+                            <Link to="/EDM"><h3 className="content-title">EDM</h3></Link>
                         </div>
                     </div>
                 </div>
@@ -75,10 +63,8 @@ function Flyer() {
                     <div className="box">
                         <div className="content-overlay"></div>
                         <img src={design6}/>
-                        <div className="content-details fadeIn-bottom">
-                            <a href="https://jssanji03.github.io/work/jess-web.html">
-                                <h3 className="content-title">Website</h3>
-                            </a>
+                      <div className="content-details fadeIn-bottom">
+                           <Link to="/webSite"><h3 className="content-title">Website</h3></Link>
                         </div>
                     </div>
                 </div>
