@@ -1,13 +1,29 @@
 import React, { useState, useEffect } from 'react';
+import { Outlet } from "react-router-dom";
+
 import axios from 'axios';
 import { Link } from "react-router-dom";
 import Loading from '../FlyerLayout/components/Loading';
+import Nav from "./components/WebSiteNav";
 
 
 import '../FlyerLayout/Flyer.scss';
 
 function EDM() {
-    const [getData, setGetData] = useState(null)
+    const [getData, setGetData] = useState(null);
+    const [navId, setNavId] = useState("WebSite");
+    const [tab, setTab] = useState([
+    {
+        tab: "WebSite",
+        url:"/webSite",
+        active: true
+    },
+    {
+        tab: "UIUX",
+        url:"/uiux",
+        active: false
+    }
+    ]);
     const StyleSheet={
         width:"100vw",
         display: "flex",
@@ -30,14 +46,16 @@ function EDM() {
     }, []);
     return (
         <div className='container waterfallIndex' style={StyleSheet}>
-            <Link className='mt-5 home' to="/">My Portfilio</Link>
-            <h1 className='my-4'>WebSite</h1>
+            {/* <Link className='mt-5 home' to="/">My Portfilio</Link>
+            <h1 className='my-4'>WebSite</h1> */}
+            <Nav tab={tab} setTab={setTab} setNavId={setNavId} navId={ navId} />
             <div className='panels'>
-                <div className="waterfall">
+                <Outlet />
+                {/* <div className="row">
                     {getData ?
                         getData.map((item, index) => {
                             return (
-                            <div key={index} className="item">
+                            <div key={index} className="webItem col-3">
                                 <a href={item.url} target="_blank" rel="noreferrer">
                                 <img src={item.pic} alt="" /></a>
                                 <p className="title">{item.title}</p>
@@ -48,7 +66,7 @@ function EDM() {
                         : <Loading />
                     }
                     
-                </div>
+                </div> */}
             </div>
         </div>
         )

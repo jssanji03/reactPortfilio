@@ -1,8 +1,9 @@
 @import "../../../../assets/all.scss";
 $circleItem: (
   1:0%,
-  2:20%,
-  3:50%,
+  2:10%,
+  3:37%,
+  4:63%,
 );
 
 @mixin itemBox($top: 0%, $left: 55%) {
@@ -51,7 +52,7 @@ $circleItem: (
 
       .line {
         width: 3px;
-        height: 700px;
+        height: 950px;
         margin: 0 auto;
         background-color: #fff;
         box-shadow: 1px 0.5px 6px rgb(211, 211, 211);
@@ -73,29 +74,30 @@ $circleItem: (
     }
 
     .box {
-      
       &.item1 {
         @include itemBox;
       }
-
       &.item2 {
-        @include itemBox($top: 15%, $left: 5%);
-        .ex-work {
-          li {
-            color: #000;
-            font-weight: 400;
-            line-height: 4rem;
-            list-style: none;
-            padding: 0;
-          }
-
-          p {
-            padding-left: 2rem;
-          }
-        }
+        @include itemBox($top: 10%, $left: 5%);
       }
       &.item3 {
         @include itemBox($top: 35%);
+      }
+      &.item4 {
+        @include itemBox($top: 60%);
+      }
+      .ex-work {
+        li {
+          color: #000;
+          font-weight: 400;
+          line-height: 4rem;
+          list-style: none;
+          padding: 0;
+        }
+
+        p {
+          padding-left: 2rem;
+        }
       }
     }
   }

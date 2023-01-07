@@ -490,6 +490,31 @@
             "id":14,
             "pic":"https://github.com/jssanji03/work/blob/main/images/banner/news_400x400_03.jpg?raw=true",
             "content":"banner"
+        },
+        {
+            "id":15,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/03%20.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":16,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/04.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":17,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/06.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":18,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/07.jpg?raw=true",
+            "content":"banner"
+        },
+        {
+            "id":19,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/A01.jpg?raw=true",
+            "content":"banner"
         }
         ]
     },
@@ -539,6 +564,26 @@
             "id":8,
             "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7856-edm.jpg?raw=true",
             "content":"EDm"
+        },
+        {
+            "id":9,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/malulu_EDM.jpg?raw=true",
+            "content":"EDm"
+        },
+        {
+            "id":10,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/1018_soetek_420x594mm-01.jpg?raw=true",
+            "content":"EDm"
+        },
+        {
+            "id":11,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/20210118_Dm_v2.jpg?raw=true",
+            "content":"EDm"
+        },
+        {
+            "id":12,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/20210825_Dm01_297x210mm.jpg?raw=true",
+            "content":"EDm"
         }
         ]
     },
@@ -547,24 +592,176 @@
         "data": [
         {
             "id":1,
-            "pic":"build/static/media/web/03.png",
+            "pic":"images/03.png",
             "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
             "title":"JQuery小遊戲",
             "content":"[ VScode、JQuery ]"
         },
         {
             "id":2,
-            "pic":"./images/web/03.png",
-            "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
+            "pic":"images/01.png",
+            "url":"https://jssanji03.github.io/work/jess-bootstrap.html",
             "title":"BootStrap網頁切版",
             "content":"[ BootStrap ]"
         },
         {
             "id":3,
-             "pic":"./images/web/03.png",
-            "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
+             "pic":"images/02.png",
+            "url":"https://www.youtube.com/embed/FvStgHF1CQg",
             "title":"專題電商網站建置",
             "content":"[ React.框架、Node.js後端 ]"
+        },
+        {
+            "id":4,
+             "pic":"images/webSite.png",
+            "url":"https://jssanji03.github.io/Fonyitek_v3/",
+            "title":"公司網站建置",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":5,
+             "pic":"images/recuit.png",
+            "url":"https://jssanji03.github.io/EtherWan_IDForm/pages/index.html",
+            "title":"招募系統-新進人員資料填寫",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":6,
+             "pic":"images/Frontend.png",
+            "url":"https://jssanji03.github.io/EtherWan/index.html",
+            "title":"客製化內部系統 - 前台首頁",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":7,
+             "pic":"images/backend.png",
+            "url":"https://jssanji03.github.io/Admin/",
+            "title":"客製化內部系統 - 後台",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":8,
+             "pic":"images/shop.png",
+            "url":"https://jssanji03.github.io/OrderTemplete/pages/products.html",
+            "title":"B2B - 下單系統",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":9,
+             "pic":"images/paste.png",
+            "url":"https://jssanji03.github.io/Excel_paste/",
+            "title":"功能項目 - 剪貼簿",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":10,
+             "pic":"images/progress_Bar.png",
+            "url":"https://github.com/jssanji03/progress_Bar",
+            "title":"功能項目 - 進度條",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":11,
+             "pic":"images/AddTable.png",
+            "url":"https://github.com/jssanji03/webpack_addTable",
+            "title":"功能項目 - 表格新增驗證功能",
+            "content":"[ Webpack、validate.js ]"
+        },
+        {
+            "id":12,
+             "pic":"images/DragCaculator.png",
+            "url":"https://github.com/jssanji03/Drag_Caculator",
+            "title":"功能項目 - 簡易拖曳式計算機功能",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":13,
+             "pic":"images/alert.png",
+            "url":"https://jssanji03.github.io/message_Board/pages/alert.html",
+            "title":"功能項目 - 到期通知",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":14,
+             "pic":"images/organazation.png",
+            "url":"https://github.com/jssanji03/organazation_chart",
+            "title":"功能項目 - 組織圖",
+            "content":"[ Webpack、orgchart.js ]"
+        },
+        {
+            "id":15,
+             "pic":"images/Flowchart.png",
+            "url":"https://github.com/jssanji03/Flowchart",
+            "title":"功能項目 - 拖曳式流程圖",
+            "content":"[ Webpack、jsplumb.js ]"
+        },
+        {
+            "id":16,
+             "pic":"images/message_demo1.png",
+            "url":"https://jssanji03.github.io/message_Board/pages/message.html",
+            "title":"功能項目 - 留言板",
+            "content":"[ Webpack、JavaScript ]"
+        }
+        ]
+    },
+    {
+        "name": "UIUX",
+        "data": [
+        {
+            "id":1,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/03.png?raw=true",
+            "url":"",
+            "title":"軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps軟體UI/UX呈現 - 首頁 ]"
+        },
+        {
+            "id":2,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/01.png?raw=true",
+            "url":"",
+            "title":"軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps軟體 - 系統總表 ]"
+        },
+        {
+            "id":3,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/02.png?raw=true",
+            "url":"",
+            "title":"軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 表單內頁 ]"
+        },
+        {
+            "id":4,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/06.png?raw=true",
+            "url":"",
+            "title":"軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":5,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/04.png?raw=true",
+            "url":"",
+            "title":"長春 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":6,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/05.png?raw=true",
+            "url":"",
+            "title":"Soetek - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":7,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/08.png?raw=true",
+            "url":"",
+            "title":"Skyluster - 人員出缺勤系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":8,
+            "pic":"https://github.com/jssanji03/work/blob/main/images/UIUX/iPhone%2012%20Mockup.png?raw=true",
+            "url":"https://youtu.be/irD2v0r1Qv4",
+            "title":"輔大學生餐廳 - 服務設計提案",
+            "content":"[ Adobe XD - App點餐系統 ]"
         }
         ]
     }

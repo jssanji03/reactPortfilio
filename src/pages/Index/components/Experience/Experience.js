@@ -59,6 +59,25 @@ const MyExp1 = () => {
                     使用React框架，後端為Node.js</p>
             </div>
             </Fade>
+            <Fade right>
+                <div className="box item4">
+                    <h5>2020年/12月－</h5>
+                    <p className="vtitle">碩益科技股份有限公司－前端工程師/UIUX</p>
+                    <ul className="ex-work">
+                        <li>・ 系統介面設計
+                            <p>後台系統介面 Prototype 
+                            依照客戶功能需求，搭配客戶風格及色系，使用HTML .JavaScript設計出可操作性的系統介面。</p>
+                        </li>
+                        <li>・ Vue框架資料串接
+                            <p>後台系統介面 資料串接
+                            使用 .Net 底層搭配 Vue 框架</p>
+                        </li>
+                        <li>・ 微軟powerApps 系統介面設計
+                            <p>微軟powerApps 系統介面設計</p>
+                        </li>
+                    </ul>
+                </div>
+            </Fade>
         </>
     )
 }
@@ -74,6 +93,7 @@ function Experience() {
                             <div className="circle1"></div>
                             <div className="circle2"></div>
                             <div className="circle3"></div>
+                            <div className="circle4"></div>
                         </div>
                     </div>
                 </section>

@@ -64,7 +64,7 @@ function Flyer() {
                         <div className="content-overlay"></div>
                         <img src={design6}/>
                       <div className="content-details fadeIn-bottom">
-                           <Link to="/webSite"><h3 className="content-title">Website</h3></Link>
+                           <Link to="/webSite"><h3 className="content-title">Website <br/>& <br/>UI/UX</h3></Link>
                         </div>
                     </div>
                 </div>

@@ -80,6 +80,7 @@
           // width: 50%;
           break-inside: avoid;
           padding: 10px;
+
           img {
             width: 100%;
             object-fit: cover;
@@ -101,7 +102,22 @@
 .home {
   color: rgb(109, 109, 109);
 }
+.webItem {
+  // width: 50%;
+  break-inside: avoid;
+  padding: 10px;
 
+  img {
+    width: 100%;
+    object-fit: contain;
+    height: 200px;
+    border: 1px solid rgb(222, 222, 222);
+  }
+
+  .content {
+    color: rgb(130, 130, 130);
+  }
+}
 
 
 

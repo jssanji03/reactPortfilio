@@ -9,7 +9,7 @@ import Packages from './pages/collections/packages';
 import Cis from './pages/collections/Cis';
 import Banner from './pages/collections/Banner';
 import Edm from './pages/collections/EDM';
-import Website from './pages/collections/WebSite';
+
 
 // 引入 作品集元件
 import FlyerLayout from './pages/FlyerLayout/Flyer';
@@ -19,6 +19,10 @@ import Electronic from './pages/FlyerLayout/components/Electronic';
 import Foods from './pages/FlyerLayout/components/Foods';
 import Necessities from './pages/FlyerLayout/components/Necessities';
 
+// 引入 WebSite元件
+import WebsiteNav from './pages/collections/WebSite';
+import WebPage from './pages/collections/components/WebPage';
+import Uiux from './pages/collections/components/UIUX';
 
 function App(props) {
   const [percent, setPercent] = useState("30px");
@@ -31,7 +35,10 @@ function App(props) {
         <Route path="/cis" element={<Cis />} />
         <Route path="/banner" element={<Banner />} />
         <Route path="/EDM" element={<Edm />} />
-        <Route path="/website" element={<Website />} />
+        <Route path="/" element={<WebsiteNav />}>
+          <Route index path="/webSite"  element={<WebPage />}/>
+          <Route path="/uiux"  element={<Uiux />} />
+        </Route>
         <Route path="/" element={<FlyerLayout />}>
           <Route index path="/careFlyer"  element={<Care />}/>
           <Route path="/luxury"  element={<Luxury />} />
