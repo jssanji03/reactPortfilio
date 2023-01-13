@@ -28,7 +28,7 @@ function UIUX() {
                     {getData ?
                     getData.map((item, index) => {
                         let title;
-                            if(item.id === 8){
+                            if(item.id === 9){
                                 title = <a href={item.url} target="_blank" rel="noreferrer"><img src={item.pic} alt="" /></a>
                             } else {
                                 title = <img src={item.pic} alt="" />
