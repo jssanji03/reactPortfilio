@@ -16,8 +16,10 @@ const skills= {
         {id:10,skill:'- Bootstrap5'},
         {id:11,skill:'- Webpack'},
         {id:12,skill:'- JavaScript'},
-        {id:13,skill:'- Git版本控制'},
-        {id:14,skill:'- JQuery'}
+        {id:13,skill:'- Vue.js'},
+        {id:14,skill:'- JQuery'},
+        {id:15,skill:'- React'},
+        {id:16,skill:'- Git版本控制'},
     ]
 }
 const skillItem = skills.designSkill.map((item) => { 
@@ -29,7 +31,7 @@ const JsItem = skills.jsSkill.map((item) => {
 const MySkills = () => {
     return (
         <>
-            <div className="col-6 skillItem">
+            <div className="col-6 skillItem mt-5">
                 <h3 id="skill">設計技能</h3>
                 <div>
                     <ul className="skill row">
@@ -37,7 +39,7 @@ const MySkills = () => {
                     </ul>
                 </div>
             </div>
-            <div className="col-6 skillItem">
+            <div className="col-6 skillItem mt-5">
                 <h3 id="skill">前端技能</h3>
                 <div>
                     <ul className="skill row">

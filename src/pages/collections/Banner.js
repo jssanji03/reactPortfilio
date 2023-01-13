@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import {Link} from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 import Loading from '../FlyerLayout/components/Loading';
 
 import '../FlyerLayout/Flyer.scss';
@@ -29,7 +29,9 @@ function Banner() {
     }, []);
     return (
         <div className='container waterfallIndex' style={StyleSheet}>
-            <Link className='mt-5 home' to="/">My Portfilio</Link>
+            <HashLink className='mt-5 home' smooth to="/#bookmark">
+                My Portfilio
+            </HashLink>
             <h1 className='my-4'>Banner</h1>
             <div className='panels'>
                 <div className="waterfall">

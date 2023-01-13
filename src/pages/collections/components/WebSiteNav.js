@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef,useLocation } from 'react';
-import { NavLink,Link} from "react-router-dom";
+import {  Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 import '../../FlyerLayout/Flyer.scss';
 
 
@@ -26,10 +27,19 @@ function Nav(props) {
             });
         })
     };
+    const handleScroll = () => {
+        if (this.props.scrollToTarget) {
+            // this.props.scrollToTarget();
+             console.log(this.props)
+        }
+    };
     return (
     <div>
         <div className="tabs">
-                <Link to="/">My Portfilio</Link>
+                {/* <Link to="/">My Portfilio</Link> */}
+                <HashLink smooth to="/#bookmark">
+                My Portfilio
+                </HashLink>
                 {tab.map((item) => {
                     return (
                     <Link key={item.tab} className={item.active ? "active tab" : "tab"} to={item.url} onClick={() => {

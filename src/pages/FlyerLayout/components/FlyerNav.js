@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef,useLocation } from 'react';
-import { NavLink,Link} from "react-router-dom";
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 import '../Flyer.scss';
 
 
@@ -28,7 +29,10 @@ function Nav(props) {
     return (
     <div>
         <div className="tabs">
-                <Link to="/">My Portfilio</Link>
+                {/* <Link to="/">My Portfilio</Link> */}
+                <HashLink smooth to="/#bookmark">
+                My Portfilio
+                </HashLink>
                 {tab.map((item) => {
                     return (
                     <Link key={item.tab} className={item.active ? "active tab" : "tab"} to={item.url} onClick={() => {

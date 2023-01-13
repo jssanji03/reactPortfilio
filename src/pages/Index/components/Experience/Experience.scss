@@ -2,8 +2,8 @@
 $circleItem: (
   1:0%,
   2:10%,
-  3:37%,
-  4:63%,
+  3:35%,
+  4:60%,
 );
 
 @mixin itemBox($top: 0%, $left: 55%) {
@@ -52,7 +52,7 @@ $circleItem: (
 
       .line {
         width: 3px;
-        height: 950px;
+        height: 1000px;
         margin: 0 auto;
         background-color: #fff;
         box-shadow: 1px 0.5px 6px rgb(211, 211, 211);

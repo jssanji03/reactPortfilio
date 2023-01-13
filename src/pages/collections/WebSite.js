@@ -4,7 +4,7 @@ import { Outlet } from "react-router-dom";
 import axios from 'axios';
 import { Link } from "react-router-dom";
 import Loading from '../FlyerLayout/components/Loading';
-import Nav from "./components/WebSiteNav";
+import WebSiteNav from "./components/WebSiteNav";
 
 
 import '../FlyerLayout/Flyer.scss';
@@ -48,7 +48,7 @@ function EDM() {
         <div className='container waterfallIndex' style={StyleSheet}>
             {/* <Link className='mt-5 home' to="/">My Portfilio</Link>
             <h1 className='my-4'>WebSite</h1> */}
-            <Nav tab={tab} setTab={setTab} setNavId={setNavId} navId={ navId} />
+            <WebSiteNav tab={tab} setTab={setTab} setNavId={setNavId} navId={ navId} />
             <div className='panels'>
                 <Outlet />
                 {/* <div className="row">
