@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './Experience.scss';
 // This example is live editable
-import Fade from 'react-reveal/Fade';
+import { Fade } from "react-awesome-reveal";
 
 const MyExp1 = () => (
     <>

@@ -18,7 +18,7 @@ function Banner() {
         axios.get('http://localhost:3000/picData.json')
         .then((res) => {
             // #2 把資料加入
-            console.log(res)
+            console.log(res.data[7].data)
             setGetData(res.data[7].data);
         })
         .catch(error => console.log(error));
