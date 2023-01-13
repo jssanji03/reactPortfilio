@@ -4,71 +4,71 @@
         "data": [
         {
             "id":1,
-             "pic":"https://github.com/jssanji03/work/blob/main/images/package/01.jpg?raw=true",
+             "pic":"images/careProduct/01.jpg",
             "content":"保養品dm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/02-1.jpg?raw=true",
+            "pic":"images/careProduct/02.jpg",
             "content":"保養品dm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/A4DM-02.jpg?raw=true",
+            "pic":"images/careProduct/03.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/A5%20Magazine%20MockUp%20B.png?raw=true",
+            "pic":"images/careProduct/04.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/DM-%E6%B3%95.jpg?raw=true",
+            "pic":"images/careProduct/05.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/DM-%E8%8B%B1.jpg?raw=true",
+            "pic":"images/careProduct/06.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/DM-%E9%9F%93.jpg?raw=true",
+            "pic":"images/careProduct/07.png",
             "content":"保養品dm"
         }
         ,
         {
             "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/Poster%20B.jpg?raw=true",
+            "pic":"images/careProduct/08.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":9,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/Relive-%E8%8B%B1%E6%96%87%E9%9B%9C%E8%AA%8C.JPG.jpg?raw=true",
+            "pic":"images/careProduct/09.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":10,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/%E6%A8%A1%E6%BC%BE%E9%9B%9C%E8%AA%8C-4.jpg?raw=true",
+            "pic":"images/careProduct/10.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":11,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/%E8%94%BB%E7%B7%B9-%E8%8B%B1%E6%96%87%E9%9B%9C%E8%AA%8C.jpg?raw=true",
+            "pic":"images/careProduct/11.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":12,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/01/%E9%9B%9C%E8%AA%8C%E7%A8%BF.jpg?raw=true",
+            "pic":"images/careProduct/12.jpg",
             "content":"保養品dm"
         }
         ]
@@ -78,41 +78,41 @@
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/02/00.jpg?raw=true",
+            "pic":"images/Luxury/00.jpg",
             "content":"精品dm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/02/01.jpg?raw=true",
+            "pic":"images/Luxury/01.jpg",
             "content":"精品dm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/02/02.jpg?raw=true",
+            "pic":"images/Luxury/02.jpg",
             "content":"精品dm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/02/03.jpg?raw=true",
+            "pic":"images/Luxury/03.jpg",
             "content":"精品dm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/02/04.jpg?raw=true",
+            "pic":"images/Luxury/04.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/02/05.jpg?raw=true",
+            "pic":"images/Luxury/05.jpg",
             "content":"保養品dm"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/02/06.jpg?raw=true",
+            "pic":"images/Luxury/06.jpg",
             "content":"保養品dm"
         }
         ]
@@ -122,47 +122,47 @@
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/01-3.jpg?raw=true",
+            "pic":"images/3C/00.jpg",
             "content":"3Cdm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/01.PNG?raw=true",
+            "pic":"images/3C/01.PNG",
             "content":"3Cdm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/02%20.PNG?raw=true",
+            "pic":"images/3C/02 .PNG",
             "content":"3Cdm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/03.PNG?raw=true",
+            "pic":"images/3C/03.PNG",
             "content":"3Cdm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/04.png?raw=true",
+            "pic":"images/3C/04.png",
             "content":"3Cdm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/05.jpg?raw=true",
+            "pic":"images/3C/05.jpg",
             "content":"3Cdm"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/05.png?raw=true",
+            "pic":"images/3C/05.png",
             "content":"3Cdm"
         }
         ,
         {
             "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/03/07.jpg?raw=true",
+            "pic":"images/3C/07.jpg",
             "content":"3Cdm"
         }
         ]
@@ -172,122 +172,166 @@
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/00.png?raw=true",
+            "pic":"images/foods/00.png",
             "content":"foodsDm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/01.PNG?raw=true",
+            "pic":"images/foods/01.PNG",
             "content":"foodsDm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/22.jpg?raw=true",
+            "pic":"images/foods/22.jpg",
             "content":"foodsDm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/A.PNG?raw=true",
+            "pic":"images/foods/A.PNG",
             "content":"foodsDm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/B.png?raw=true",
+            "pic":"images/foods/B.png",
             "content":"foodsDm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/C.png?raw=true",
+            "pic":"images/foods/C.png",
             "content":"foodsDm"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/D.png?raw=true",
+            "pic":"images/foods/D.png",
             "content":"foodsDm"
         }
         ,
         {
             "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/DM.jpg?raw=true",
+            "pic":"images/foods/DM.jpg",
             "content":"foodsDm"
         }
         ,
         {
             "id":9,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/E.PNG?raw=true",
+            "pic":"images/foods/E.PNG",
             "content":"foodsDm"
         }
         ,
         {
             "id":10,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/F.png?raw=true",
+            "pic":"images/foods/F.png",
             "content":"foodsDm"
         }
         ,
         {
             "id":11,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/G.png?raw=true",
+            "pic":"images/foods/G.png",
             "content":"foodsDm"
         }
         ,
         {
             "id":12,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/H.png?raw=true",
+            "pic":"images/foods/H.png",
             "content":"foodsDm"
         }
         ,
         {
             "id":13,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/Tri%20Fold%20Brochure%20MockUp%202.jpg?raw=true",
+            "pic":"images/foods/Tri Fold Brochure MockUp 2.jpg",
             "content":"foodsDm"
         }
         ]
     },
     {
-        "name": "products",
+        "name": "necessities",
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/05/00.jpg?raw=true",
-            "content":"productsDm"
+            "pic":"images/necessities/00.jpg",
+            "content":"necessitiesDm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/01.PNG?raw=true",
-            "content":"foodsDm"
+            "pic":"images/necessities/01.jpg",
+            "content":"necessitiesDm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/22.jpg?raw=true",
-            "content":"foodsDm"
+            "pic":"images/necessities/02.jpg",
+            "content":"necessitiesDm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/A.PNG?raw=true",
-            "content":"foodsDm"
+            "pic":"images/necessities/04.JPG",
+            "content":"necessitiesDm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/B.png?raw=true",
-            "content":"foodsDm"
+            "pic":"images/necessities/05.jpg",
+            "content":"necessitiesDm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/C.png?raw=true",
-            "content":"foodsDm"
-        }
-        ,
+            "pic":"images/necessities/06.jpg",
+            "content":"necessitiesDm"
+        },
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/04/D.png?raw=true",
-            "content":"foodsDm"
+            "pic":"images/necessities/06.PNG",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":8,
+            "pic":"images/necessities/07.jpg",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":9,
+            "pic":"images/necessities/07.PNG",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":10,
+            "pic":"images/necessities/08.jpg",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":11,
+            "pic":"images/necessities/08.png",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":12,
+            "pic":"images/necessities/09.jpg",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":13,
+            "pic":"images/necessities/10.jpg",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":14,
+            "pic":"images/necessities/11.jpg",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":15,
+            "pic":"images/necessities/12.jpg",
+            "content":"necessitiesDm"
+        },
+        {
+            "id":14,
+            "pic":"images/necessities/13.jpg",
+            "content":"necessitiesDm"
         }
         ]
     },
@@ -296,51 +340,51 @@
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/01.jpg?raw=true",
+            "pic":"images/package/01.jpg",
             "content":"packagesDm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/02%20%E6%8B%B7%E8%B2%9D.JPG?raw=true",
+            "pic":"images/package/02 .JPG",
             "content":"packagesDm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/04%20.jpg?raw=true",
+            "pic":"images/package/04 .jpg",
             "content":"packagesDm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/06.JPG?raw=true",
+            "pic":"images/package/06.JPG",
             "content":"packagesDm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/08.jpg?raw=true",
+            "pic":"images/package/08.jpg",
             "content":"packagesDm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/10.jpg?raw=true",
+            "pic":"images/package/10.jpg",
             "content":"packagesDm"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/11.JPG?raw=true",
+            "pic":"images/package/11.jpg",
             "content":"packagesDm"
         },
         {
             "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/12.jpg?raw=true",
+            "pic":"images/package/12.jpg",
             "content":"packagesDm"
         },
         {
             "id":9,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/package/13.jpg?raw=true",
+            "pic":"images/package/13.jpg",
             "content":"packagesDm"
         }
         ]
@@ -350,66 +394,66 @@
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/01.JPG?raw=true",
+            "pic":"images/cis/01.JPG",
             "content":"cisDm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/03.JPG?raw=true",
+            "pic":"images/cis/03.JPG",
             "content":"cisDm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/04.JPG?raw=true",
+            "pic":"images/cis/04.JPG",
             "content":"cisDm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/05-2.JPG?raw=true",
+            "pic":"images/cis/05-2.JPG",
             "content":"cisDm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/06.JPG?raw=true",
+            "pic":"images/cis/06.JPG",
             "content":"cisDm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/08.jpg?raw=true",
+            "pic":"images/cis/08.jpg",
             "content":"cisDm"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/09.jpg?raw=true",
+            "pic":"images/cis/09.jpg",
             "content":"cisDm"
         },
         {
             "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/10.JPG?raw=true",
+            "pic":"images/cis/10.JPG",
             "content":"cisDm"
         },
         {
             "id":9,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/12.jpg?raw=true",
+            "pic":"images/cis/12.jpg",
             "content":"cisDm"
         },
         {
             "id":10,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/10.JPG?raw=true",
+            "pic":"images/cis/13.png",
             "content":"cisDm"
         },
         {
             "id":11,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/14.jpg?raw=true",
+            "pic":"images/cis/14.jpg",
             "content":"cisDm"
         },
         {
             "id":12,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/cis/ASIA%20MASK.jpg?raw=true",
+            "pic":"images/cis/ASIA MASK.jpg",
             "content":"cisDm"
         }
         ]
@@ -419,76 +463,101 @@
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/01.JPG?raw=true",
+            "pic":"images/banner/01.JPG",
             "content":"banner"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/1000X1000-01.jpg?raw=true",
+            "pic":"images/banner/02.jpg",
             "content":"banner"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/1000X1000-02.jpg?raw=true",
+            "pic":"images/banner/03.jpg",
             "content":"banner"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/2.jpg?raw=true",
+            "pic":"images/banner/05.jpg",
             "content":"banner"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/FA_BACO_06.jpg?raw=true",
+            "pic":"images/banner/06.jpg",
             "content":"banner"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/FA_BACO_10.jpg?raw=true",
+            "pic":"images/banner/07.jpg",
             "content":"banner"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/FB_SCL_02.jpg?raw=true",
+            "pic":"images/banner/08.jpg",
             "content":"banner"
         },
         {
             "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/banner_1920x1080.jpg?raw=true",
+            "pic":"images/banner/09.jpg",
             "content":"banner"
         },
         {
             "id":9,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/link_400x200_facebook.jpg?raw=true",
+            "pic":"images/banner/10.jpg",
             "content":"banner"
         },
         {
             "id":10,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/link_400x200_instagram.jpg?raw=true",
+            "pic":"images/banner/11.jpg",
             "content":"banner"
         },
         {
             "id":11,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/link_400x200_line.jpg?raw=true",
+            "pic":"images/banner/12.jpg",
             "content":"banner"
         },
         {
             "id":12,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/news_400x400_01.jpg?raw=true",
+            "pic":"images/banner/13.jpg",
             "content":"banner"
         },
         {
             "id":13,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/news_400x400_02.jpg?raw=true",
+            "pic":"images/banner/14.jpg",
             "content":"banner"
         },
         {
             "id":14,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/banner/news_400x400_03.jpg?raw=true",
+            "pic":"images/banner/15.jpg",
+            "content":"banner"
+        },
+        {
+            "id":15,
+            "pic":"images/banner/16.jpg",
+            "content":"banner"
+        },
+        {
+            "id":16,
+            "pic":"images/banner/17.jpg",
+            "content":"banner"
+        },
+        {
+            "id":17,
+            "pic":"images/banner/18.jpg",
+            "content":"banner"
+        },
+        {
+            "id":18,
+            "pic":"images/banner/19.jpg",
+            "content":"banner"
+        },
+        {
+            "id":18,
+            "pic":"images/banner/04.jpg",
             "content":"banner"
         }
         ]
@@ -498,46 +567,66 @@
         "data": [
         {
             "id":1,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/81709-DM.jpg?raw=true",
+            "pic":"images/edm/01.jpg",
             "content":"EDm"
         },
         {
             "id":2,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/91808-DM.jpg?raw=true",
+            "pic":"images/edm/02.jpg",
             "content":"EDm"
         },
         {
             "id":3,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/A04-DM.jpg?raw=true",
+            "pic":"images/edm/03.jpg",
             "content":"EDm"
         }
         ,
         {
             "id":4,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/BBQ_EDM.jpg?raw=true",
+            "pic":"images/edm/04.jpg",
             "content":"EDm"
         }
         ,
         {
             "id":5,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7311-edm.jpg?raw=true",
+            "pic":"images/edm/05.jpg",
             "content":"EDm"
         }
         ,
         {
             "id":6,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7808-edm.jpg?raw=true",
+            "pic":"images/edm/06.jpg",
             "content":"EDm"
         }
         ,
         {
             "id":7,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7829-edm.jpg?raw=true",
+            "pic":"images/edm/07.jpg",
             "content":"EDm"
         },
         {
             "id":8,
-            "pic":"https://github.com/jssanji03/work/blob/main/images/edm/NO7856-edm.jpg?raw=true",
+            "pic":"images/edm/08.jpg",
+            "content":"EDm"
+        },
+        {
+            "id":9,
+            "pic":"images/edm/09.jpg",
+            "content":"EDm"
+        },
+        {
+            "id":10,
+            "pic":"images/edm/10.jpg",
+            "content":"EDm"
+        },
+        {
+            "id":11,
+            "pic":"images/edm/11.jpg",
+            "content":"EDm"
+        },
+        {
+            "id":12,
+            "pic":"images/edm/12.jpg",
             "content":"EDm"
         }
         ]
@@ -547,24 +636,190 @@
         "data": [
         {
             "id":1,
-            "pic":"build/static/media/web/03.png",
+            "pic":"images/WebSite/01.png",
             "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
             "title":"JQuery小遊戲",
             "content":"[ VScode、JQuery ]"
         },
         {
             "id":2,
-            "pic":"./images/web/03.png",
-            "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
+            "pic":"images/WebSite/02.png",
+            "url":"https://jssanji03.github.io/work/jess-bootstrap.html",
             "title":"BootStrap網頁切版",
             "content":"[ BootStrap ]"
         },
         {
             "id":3,
-             "pic":"./images/web/03.png",
-            "url":"https://jssanji03.github.io/work/jquery/jess-jquery.html",
+             "pic":"images/WebSite/03.png",
+            "url":"https://www.youtube.com/embed/FvStgHF1CQg",
             "title":"專題電商網站建置",
             "content":"[ React.框架、Node.js後端 ]"
+        },
+        {
+            "id":4,
+             "pic":"images/WebSite/04.png",
+            "url":"https://jssanji03.github.io/Fonyitek_v3/",
+            "title":"公司網站建置",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":5,
+             "pic":"images/WebSite/05.png",
+            "url":"https://jssanji03.github.io/EtherWan_IDForm/pages/index.html",
+            "title":"招募系統-新進人員資料填寫",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":6,
+             "pic":"images/WebSite/06.png",
+            "url":"https://jssanji03.github.io/EtherWan/index.html",
+            "title":"客製化內部系統 - 前台首頁",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":7,
+             "pic":"images/WebSite/07.png",
+            "url":"https://jssanji03.github.io/Admin/",
+            "title":"客製化內部系統 - 後台",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":8,
+             "pic":"images/WebSite/08.png",
+            "url":"https://jssanji03.github.io/OrderTemplete/pages/products.html",
+            "title":"B2B - 下單系統",
+            "content":"[ BootStrap、JavaScript ]"
+        },
+        {
+            "id":9,
+             "pic":"images/WebSite/09.png",
+            "url":"https://jssanji03.github.io/Excel_paste/",
+            "title":"功能項目 - 剪貼簿",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":10,
+             "pic":"images/WebSite/10.png",
+            "url":"https://jssanji03.github.io/progress_Bar/",
+            "title":"功能項目 - 進度條",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":11,
+             "pic":"images/WebSite/11.png",
+            "url":"https://jssanji03.github.io/webpack_addTable/",
+            "title":"功能項目 - 表格新增驗證功能",
+            "content":"[ Webpack、validate.js ]"
+        },
+        {
+            "id":12,
+             "pic":"images/WebSite/12.png",
+            "url":"https://jssanji03.github.io/Drag_Caculator/",
+            "title":"功能項目 - 簡易拖曳式計算機功能",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":13,
+             "pic":"images/WebSite/13.png",
+            "url":"https://jssanji03.github.io/message_Board/pages/alert.html",
+            "title":"功能項目 - 到期通知",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":14,
+             "pic":"images/WebSite/14.png",
+            "url":"https://jssanji03.github.io/organazation_chart/",
+            "title":"功能項目 - 組織圖",
+            "content":"[ Webpack、orgchart.js ]"
+        },
+        {
+            "id":15,
+             "pic":"images/WebSite/15.png",
+            "url":"https://jssanji03.github.io/Flowchart/",
+            "title":"功能項目 - 拖曳式流程圖",
+            "content":"[ Webpack、jsplumb.js ]"
+        },
+        {
+            "id":16,
+             "pic":"images/WebSite/16.png",
+            "url":"https://jssanji03.github.io/message_Board/pages/message.html",
+            "title":"功能項目 - 留言板",
+            "content":"[ Webpack、JavaScript ]"
+        },
+        {
+            "id":17,
+             "pic":"images/WebSite/17.png",
+            "url":"https://jssanji03.github.io/dior_layout/index.html",
+            "title":"Dior - GUI 介面設計",
+            "content":"[ Sass、JavaScript ]"
+        }
+        ]
+    },
+    {
+        "name": "UIUX",
+        "data": [
+        {
+            "id":1,
+            "pic":"images/UIUX/001.png",
+            "url":"",
+            "title":"LVMH 軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps軟體UI/UX呈現 - 首頁 ]"
+        },
+        {
+            "id":2,
+            "pic":"images/UIUX/002.png",
+            "url":"",
+            "title":"LVMH 軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps軟體 - 系統總表 ]"
+        },
+        {
+            "id":3,
+            "pic":"images/UIUX/003.png",
+            "url":"",
+            "title":"LVMH 軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 表單內頁 ]"
+        },
+        {
+            "id":4,
+            "pic":"images/UIUX/004.png",
+            "url":"",
+            "title":"LVMH 軒尼士 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":5,
+            "pic":"images/UIUX/005.png",
+            "url":"",
+            "title":"長春 - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":6,
+            "pic":"images/UIUX/006.png",
+            "url":"",
+            "title":"Soetek - 公司內部雲端系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":7,
+            "pic":"images/UIUX/007.png",
+            "url":"",
+            "title":"Skyluster - 人員出缺勤系統",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":8,
+            "pic":"images/UIUX/008.png",
+            "url":"",
+            "title":"Porsche 保時捷 - 員工系統各類表單",
+            "content":"[ 微軟PowerApps - 系統總表 ]"
+        },
+        {
+            "id":9,
+            "pic":"images/UIUX/009.png",
+            "url":"https://youtu.be/irD2v0r1Qv4",
+            "title":"輔大學生餐廳 - 服務設計提案",
+            "content":"[ Adobe XD - App點餐系統 ]"
         }
         ]
     }
