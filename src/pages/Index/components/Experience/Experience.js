@@ -5,14 +5,14 @@ import { Fade } from "react-awesome-reveal";
 
 const MyExp1 = () => (
     <>
-        <Fade right>
-            <div className="box item1">
+        <Fade className="box item1" direction={"right"}>
+            <div >
                 <h5>2006/03∼2010/03</h5>
                 <p>亞洲大學 數位多媒體設計學系</p>
             </div>
         </Fade>
-        <Fade left>
-            <div className="box item2">
+        <Fade className="box item2" direction={"left"} >
+            <div >
                 <h5>2011/06∼2020/04</h5>
                 <p className="vtitle">六員環股份有限公司</p>
                 <ul className="ex-work">
@@ -47,8 +47,8 @@ const MyExp1 = () => (
                 </ul>
             </div>
         </Fade>
-        <Fade right>
-            <div className="box item3">
+        <Fade className="box item3" direction={"right"}>
+            <div >
                 <h5>2020年/7月－582小時專業訓練</h5>
                 <p className="vtitle">資訊工業策進會－前端工程師養成班</p>
                 <p>1個團隊合作電商網站、2個個人網站
@@ -58,8 +58,8 @@ const MyExp1 = () => (
                     使用 React 框架，後端為 Node.js</p>
             </div>
         </Fade>
-        <Fade right>
-            <div className="box item4">
+        <Fade className="box item4" direction={"right"}>
+            <div >
                 <h5>2020年/12月－</h5>
                 <p className="vtitle">碩益科技股份有限公司－前端工程師 / UIUX</p>
                 <ul className="ex-work">
