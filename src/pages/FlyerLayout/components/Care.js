@@ -46,7 +46,6 @@ function Care() {
                             return (
                                 <div key={index} className="item">
                                     <img src={`${process.env.PUBLIC_URL}/${item.pic}`} alt={item.id} />
-                                    <p>{item.content}</p>
                                 </div>
                             );
                         })
