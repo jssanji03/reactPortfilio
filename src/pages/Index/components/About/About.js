@@ -64,10 +64,10 @@ function List(props) {
                         <td className="tdTitle">職業</td>
                         <td>前端工程/設計師</td>
                     </tr>
-                    <tr className="icon">
+                    {/* <tr className="icon">
                         <td></td>
                         <td><InstagramFilled style={{ fontSize: '30px', color: '#c3295f' }}/><FacebookFilled style={{ fontSize: '30px', color: '#2955c3' }}/></td>
-                    </tr>
+                    </tr> */}
                 </tbody>
             </table>
         </div>
