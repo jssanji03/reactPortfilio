@@ -7,7 +7,7 @@ function Foods() {
     const[getData,setGetData]=useState(null)
     // -------- 取得目前的資料 ---------- //
     function getImg() {
-        axios.get('/picData.json')
+        axios.get('https://raw.githubusercontent.com/jssanji03/reactPortfilio/main/public/picData.json')
         .then((res) => {
             // #2 把資料加入
             setGetData(res.data[3].data);

@@ -16,7 +16,7 @@ function EDM() {
     }
          // -------- 取得目前的資料 ---------- //
     function getImg() {
-        axios.get('/picData.json')
+        axios.get('https://raw.githubusercontent.com/jssanji03/reactPortfilio/main/publichttps://raw.githubusercontent.com/jssanji03/reactPortfilio/main/public/picData.json')
         .then((res) => {
             // #2 把資料加入
             console.log(res.data[9].data)
