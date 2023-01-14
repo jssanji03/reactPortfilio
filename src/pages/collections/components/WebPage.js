@@ -16,7 +16,7 @@ function EDM() {
     }
          // -------- 取得目前的資料 ---------- //
     function getImg() {
-        axios.get('http://localhost:3000/picData.json')
+        axios.get('/picData.json')
         .then((res) => {
             // #2 把資料加入
             console.log(res.data[9].data)
@@ -36,7 +36,7 @@ function EDM() {
                             return (
                             <div key={index} className="webItem col-3">
                                 <a href={item.url} target="_blank" rel="noreferrer">
-                                <img src={item.pic} alt="" /></a>
+                                <img src={`${process.env.PUBLIC_URL}/${item.pic}`} alt="" /></a>
                                 <p className="title">{item.title}</p>
                                 <p className="content">{item.content}</p>
                             </div>

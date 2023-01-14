@@ -26,7 +26,7 @@ function Care() {
                 
     // }
     function getImg() {
-        axios.get('http://localhost:3000/picData.json')
+        axios.get('/picData.json')
         .then((res) => {
             // #2 把資料加入
             console.log(res.data[0].data)
@@ -45,7 +45,8 @@ function Care() {
                         getData.map((item, index) => {
                             return (
                                 <div key={index} className="item">
-                                    <img src={item.pic} alt={item.id} />
+                                    <img src={`${process.env.PUBLIC_URL}/${item.pic}`} alt={item.id} />
+                                    <p>{item.content}</p>
                                 </div>
                             );
                         })

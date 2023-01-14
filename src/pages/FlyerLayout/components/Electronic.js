@@ -7,7 +7,7 @@ function Electronic() {
     const[getData,setGetData]=useState(null)
     // -------- 取得目前的資料 ---------- //
     function getImg() {
-        axios.get('http://localhost:3000/picData.json')
+        axios.get('/picData.json')
         .then((res) => {
             // #2 把資料加入
             console.log(res.data[2].data)
@@ -26,7 +26,7 @@ function Electronic() {
                         getData.map((item,index)=>{
                             return (
                                 <div key={index} className="item">
-                                    <img src={item.pic} alt={item.id} />
+                                    <img src={`${process.env.PUBLIC_URL}/${item.pic}`} alt={item.id} />
                                 </div>
                             )
                         })

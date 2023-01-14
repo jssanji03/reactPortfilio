@@ -10,7 +10,7 @@ function UIUX() {
     const [getData, setGetData] = useState(null)
          // -------- 取得目前的資料 ---------- //
     function getImg() {
-        axios.get('http://localhost:3000/picData.json')
+        axios.get('/picData.json')
         .then((res) => {
             // #2 把資料加入
             console.log(res.data[10].data)
@@ -29,9 +29,9 @@ function UIUX() {
                     getData.map((item, index) => {
                         let title;
                             if(item.id === 9){
-                                title = <a href={item.url} target="_blank" rel="noreferrer"><img src={item.pic} alt="" /></a>
+                                title = <a href={item.url} target="_blank" rel="noreferrer"><img src={`${process.env.PUBLIC_URL}/${item.pic}`} alt="" /></a>
                             } else {
-                                title = <img src={item.pic} alt="" />
+                                title = <img src={`${process.env.PUBLIC_URL}/${item.pic}`} alt="" />
                             }
                             return (
                                 <div key={index} className="webItem col-3">
